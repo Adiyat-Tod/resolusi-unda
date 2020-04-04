@@ -1,7 +1,5 @@
 RENACAN QUE
 - Cari gawian
+  * mencari start up SI
 - kuliah mun ada duit
-  * Jurusan SI
-  *Jurusan TI
   * Online Course
-- mecari gf
