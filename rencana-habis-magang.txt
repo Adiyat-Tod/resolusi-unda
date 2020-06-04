@@ -1,5 +1,6 @@
 RENACAN QUE
 - Cari gawian
   * mencari start up SI
-- kuliah mun ada duit
+- kuliah sambil begawi
   * Online Course
+  * bootcamp
