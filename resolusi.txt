@@ -1,7 +1,7 @@
 RESOLUSI UNDA
-- HP New
+- HP New (done)
 - heatsink new
-- menguasai CI  
+- menguasai CI (done)
 - Harat desain front end
 - handak bisa main drum
 - handak bisi band
